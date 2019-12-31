@@ -1,1 +1,1 @@
-Tweeiter Bot by Joshua Hernandez
+Twitter Bot by Joshua Hernandez
